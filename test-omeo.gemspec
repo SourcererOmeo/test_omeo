@@ -1,16 +1,16 @@
 # frozen_string_literal: true
 
-require_relative "lib/testo/meo/version"
+require_relative "lib/test_omeo/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "test-omeo"
-  spec.version = Test::Omeo::VERSION
+  spec.name = "test_omeo"
+  spec.version = TestOmeo::VERSION
   spec.authors = ["Ricardo Valeriano"]
   spec.email = ["mister.sourcerer@gmail.com"]
 
-  spec.summary = "TestoMeo is a toy test framework in the tradition of xUnit."
-  spec.description = "TestoMeo: a test framework to learn how to write one."
-  spec.homepage = "https://github.com/mistersourcerer/testomeo"
+  spec.summary = "TestOmeo is a toy test framework in the tradition of xUnit."
+  spec.description = "TestOmeo: a test framework to learn how to write one."
+  spec.homepage = "https://github.com/SourcererOmeo/test_omeo"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    testo-meo (0.1.0)
+    test_omeo (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -57,7 +57,7 @@ PLATFORMS
 DEPENDENCIES
   rake (~> 13.0)
   standard (~> 1.3)
-  testo-meo!
+  test_omeo!
 
 BUNDLED WITH
    2.6.2
